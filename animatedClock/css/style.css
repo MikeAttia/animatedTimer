@@ -1,0 +1,37 @@
+.blue {
+    background-color: #0781D4;
+  }
+  
+  .red {
+    background-color: red;
+  }
+.wrapper{
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 5%;
+
+}
+    
+    
+
+
+
+  #clock{    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    
+    width: 320px;
+    height: 320px;
+    
+    -moz-border-radius: 160px;
+    -webkit-border-radius: 160px;
+    border-radius: 160px;
+}
+ 
+#controlos{
+    margin-left: 41%;
+ 
+}
